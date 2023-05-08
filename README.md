@@ -1,6 +1,6 @@
 # Dribble-1
 
-I have tried to made this page from scratch, i have been convert from figma source to code, the figma source will be linked below 
+I have tried to made this page from scratch, i have been converted from figma source to code, the figma source will be linked below 
 
 https://dribbble.com/shots/16643653-Radial-Scroll-Bar-Interaction
 
