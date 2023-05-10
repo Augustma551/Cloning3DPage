@@ -11,7 +11,7 @@ https://dribbble.com/shots/16643653-Radial-Scroll-Bar-Interaction
 
 
 
-i used three js to made sphere mesh and locomotive scroll to made slider photos.
+i used three js to make sphere mesh and locomotive scroll to made slider photos.
 
 i also used vite to run the project.
 
