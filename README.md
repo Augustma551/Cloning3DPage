@@ -18,9 +18,9 @@ i also used vite to run the project.
 you should use npm to install three js and locomotive scroll:
 
 open your git or terminal and follow steps below:
+ - cd vite-project
  - npm create vite@latest
  - npm i three gsap
- - cd vite-project
  - npm run dev
  
  thats it, enjoy 
