@@ -69,14 +69,10 @@ span {
 }
 
 #container-img {
-	margin-right: 5rem;
+	margin-right: 9.58rem;
 }
 
-/* .img-group {
-	display: grid;
-	grid-template-columns: repeat(1, 1fr);
-	grid-template-rows: repeat(1, 5fr);
-} */
+
 .img-group-1 {
 	display: grid;
 	grid-template-columns: repeat(1, 1fr);
@@ -165,32 +161,3 @@ button.hamburger {
 .img {
 	background-color: yellow;
 }
-
-/* Scroll Bar */
-
-/* .container.scroll-bar {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	z-index: 0;
-	background-color: yellow;
-	padding: 5px !important;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	top: 0;
-}
-
-.container.scroll-bar::-webkit-scrollbar {
-	width: 1px;
-}
-
-.container.scroll-bar::-webkit-scrollbar-thumb {
-	background-color: #333;
-	border-radius: 4px;
-}
-
-.container.scroll-bar::-webkit-scrollbar-track {
-	background-color: tomato;
-} */
-
